@@ -1,0 +1,1 @@
+SELECT DAYOFWEEK(dt) FROM date_table;		/*comment*/
